@@ -1,1 +1,2 @@
 # ProdigyInfoTech_task2
+STOP WATCH USING HTML, CSS, JAVASCRIPT
